@@ -58,7 +58,6 @@ Welcome to the **Hospital Management API**! This API provides a comprehensive so
 
 ### 📌 Accessing the API
 
-* Base URL: `http://localhost:8080/api`
 * API Documentation: `http://localhost:8080/swagger-ui.html`
 
 ### 📌 Authentication
